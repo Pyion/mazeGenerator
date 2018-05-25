@@ -1,0 +1,11 @@
+- variable declaration
+- variable types: int, float, string, *complex, *Decimal
+- if elif else
+- while
+- containers: list, dictionary, tuple, *numpy array
+- for in range
+- for in list and string, range is a list
+- functions defalut argument, one, two, name of argument in input
+- numpy array
+- classes
+- *Image
